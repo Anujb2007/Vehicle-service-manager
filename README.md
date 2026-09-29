@@ -29,7 +29,7 @@ The application creates `vehicle_service.db` automatically when it starts.
 
 ## What I learned
 
-This project helped me practise relational database design, SQL operations, Python application logic and connecting a user interface to a database.
+This project helped me practice relational database design, SQL operations, Python application logic and connecting a user interface to a database.
 
 ## Future improvements
 
