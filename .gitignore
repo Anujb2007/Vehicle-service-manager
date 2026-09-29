@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+vehicle_service.db
+.streamlit/secrets.toml
